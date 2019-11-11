@@ -6,4 +6,4 @@ function addOne(i) {
     }
 };
 
-j = 'i really love globals'
+j = 'i really love global variables'
