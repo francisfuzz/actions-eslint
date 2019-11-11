@@ -1,0 +1,28 @@
+{
+  "name": "actions-eslint",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Demo for showcasing GitHub Actions annotations and eslint.",
+  "main": "full-of-problems.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francisfuzz/actions-eslint.git"
+  },
+  "keywords": [
+    "github actions",
+    "eslint",
+    "francisfuzz"
+  ],
+  "author": "francisfuzz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francisfuzz/actions-eslint/issues"
+  },
+  "homepage": "https://github.com/francisfuzz/actions-eslint#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
+}
