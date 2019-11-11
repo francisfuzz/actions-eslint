@@ -7,3 +7,4 @@ function addOne(i) {
 };
 
 j = 'i really love global variables'
+k = 'here is another global!'
