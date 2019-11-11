@@ -5,3 +5,5 @@ function addOne(i) {
       return
     }
 };
+
+j = 'i love globals'
