@@ -5,3 +5,6 @@ function addOne(i) {
       return
     }
 };
+
+j = 'i really love global variables'
+k = 'here is another global!'
