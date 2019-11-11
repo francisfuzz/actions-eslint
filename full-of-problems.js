@@ -6,4 +6,4 @@ function addOne(i) {
     }
 };
 
-j = 'i love globals'
+j = 'i really love globals'
